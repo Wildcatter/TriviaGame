@@ -1,0 +1,3 @@
+.containgame {text-align:center; margin-top:60px; height:90vh;}
+#divgame {border-radius:10px; display:inline-block; height:90%; width:90%; border: 5px solid red;}
+#answerDiv, #questionDiv, #timeDiv{margin-top: 50px;}
